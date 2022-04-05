@@ -27,8 +27,8 @@ THEN the saved events persist
 
 ### Installing and Opening file
 
-- GitHub: 
-- GitHub live: 
+- GitHub: https://github.com/Plavala/CBHW-W5-Work-Day-Scheduler
+- GitHub live:   https://plavala.github.io/CBHW-W5-Work-Day-Scheduler/
 - Clone GitHub repository provided
 - Open with VScode or any Code reader that works similar to VScode.
 - Right click file index.html and select "open with live server"
