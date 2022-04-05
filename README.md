@@ -2,14 +2,28 @@
 Create a simple calendar 
 
 ## Description
-
+For our fifth homework assignment, we were tasked to create a day scheduler app using the given HTML and CSS already gigen. We had to use bootstrap, Jquery and formulate a Jscript for the app to work.you are able to type in a text and save it onto the page at any time slot and will even stay when you refresh the page.  Was a lot harder than it sounded but working with a group made it much easier. Also customized it to suit my style. 
 
 *Here is an example of what that page looks like.*
 
-![The site has a clander with save buttons.](..assets\day planner.png)
+![The site has a clander with save buttons.](..assets\day-planner.png)
 
 List of acceptance criteria:
-
+```
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with timeblocks for standard business hours
+WHEN I view the timeblocks for that day
+THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+WHEN I click into a timeblock
+THEN I can enter an event
+WHEN I click the save button for that timeblock
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
+```
 
 ### Installing and Opening file
 
